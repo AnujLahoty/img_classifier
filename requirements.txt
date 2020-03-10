@@ -4,5 +4,8 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-keras
 tensorflow==1.14.0
+scikit-image==0.15.0
+scipy==1.4.1
+matplotlib==3.0.3
+numpy==1.18.1
