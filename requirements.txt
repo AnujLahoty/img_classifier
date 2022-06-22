@@ -8,4 +8,4 @@ tensorflow==1.14.0
 scikit-image==0.15.0
 scipy==1.4.1
 matplotlib==3.0.3
-numpy==1.18.1
+numpy==1.22.0
